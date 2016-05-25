@@ -1,0 +1,9 @@
+/Users/systemsofttechnologies/Projects/TM/Exercises2/Exercises2/Exercises2/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/systemsofttechnologies/Projects/TM/Exercises2/Exercises2/Exercises2/obj/Debug/Exercises2.View.Passwordkata.xaml
+/Users/systemsofttechnologies/Projects/TM/Exercises2/Exercises2/Exercises2/obj/Debug/Passwordkata.xaml.g.cs
+/Users/systemsofttechnologies/Projects/TM/Exercises2/Exercises2/Exercises2/bin/Debug/Exercises2.dll.mdb
+/Users/systemsofttechnologies/Projects/TM/Exercises2/Exercises2/Exercises2/bin/Debug/Exercises2.dll
+/Users/systemsofttechnologies/Projects/TM/Exercises2/Exercises2/Exercises2/obj/Debug/Exercises2.dll
+/Users/systemsofttechnologies/Projects/TM/Exercises2/Exercises2/Exercises2/obj/Debug/Exercises2.dll.mdb
+/Users/systemsofttechnologies/Projects/TM/Exercises2/Exercises2/Exercises2/bin/Debug/Xamarin.Forms.Core.dll
+/Users/systemsofttechnologies/Projects/TM/Exercises2/Exercises2/Exercises2/bin/Debug/Xamarin.Forms.Xaml.dll
